@@ -4,7 +4,7 @@ Admin Repo
 Using GitHub with Eclipse
 1. [Clone-Repo](http://www.vogella.com/articles/EGit/article.html#github)
 	+ Für Repo Url siehe Apps-Tabelle
-	+ User-Login verwenden statt SSH-Keys
+	+ User-Login verwenden statt SSH-Keys (wird sonst beim erst Server Push gefragt)
 2. Jeweils Order pro Repo erstellen
 3. Projekt in diesem Order erstellen (kopieren) - Projekt NICHT direkt im Workspace ablegen
 
